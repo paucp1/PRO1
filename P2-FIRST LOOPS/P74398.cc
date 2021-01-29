@@ -23,7 +23,7 @@ int main () {
         }
     }
     
-    while (n/b == 0 and b <=16) {
+    while (n/b == 0 and b <= 16) {
         cout << "Base " << b << ": " << "1 cifras." << endl;
         b = b + 1;
     }
