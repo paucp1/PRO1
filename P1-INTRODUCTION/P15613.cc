@@ -8,6 +8,7 @@ int main () {
     if (x <= 30 and x >= 10) {
         cout << "it's ok" << endl;
     }
+    
     else if (x > 30) {
         cout << "it's hot" << endl;
     }
