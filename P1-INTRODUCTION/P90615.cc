@@ -7,8 +7,10 @@ int main () {
     if (x >= y and x >= z) {
         cout << x << endl;
     }
+    
     else if (y >= z) {
         cout << y << endl;
     }
+    
     else cout << z << endl;
 }
