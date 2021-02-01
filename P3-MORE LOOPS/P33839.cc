@@ -9,15 +9,21 @@ int main () {
         int aux = n;
         cout << "La suma dels digits de " << n << " es ";
         
-        if (aux < 10) cout << n << "." << endl;
+        if (aux < 10) {
+            cout << n << "." << endl;
+        }
     
         while (aux/10 > 0) {
             suma = suma + aux%10;
             aux = aux/10;
-            if (aux < 10) suma = suma + aux;
+            if (aux < 10) {
+                suma = suma + aux;
+            }
         }
 
-        if (n >= 10) cout << suma << "." << endl;
+        if (n >= 10) {
+            cout << suma << "." << endl;
+        }
         
     }
 }
