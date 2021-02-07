@@ -8,6 +8,5 @@ using namespace std;
      for (int i = 1; i <= n; ++i) {
          cin >> x;
      }
-     
      cout << "A la posicio " << n << " hi ha un " << x << "." << endl;
  }
