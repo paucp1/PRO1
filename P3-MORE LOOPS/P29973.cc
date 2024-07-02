@@ -1,6 +1,18 @@
 #include <iostream>
 using namespace std;
 
+/*
+Feu un programa que, donat un nombre n, escrigui un “triangle de mida n”.
+
+Entrada
+
+L’entrada consisteix en un natural n.
+
+Sortida
+
+Escriviu n línies, de manera que la línia i contingui i asteriscos.
+*/
+
 int main () {
     int n;
     cin >> n;
