@@ -1,6 +1,22 @@
 #include <iostream>
 using namespace std;
 
+/*
+Feu un programa que passi una quantitat donada d’anys, dies, hores, minuts i segons a segons.
+
+Entrada
+
+L’entrada consisteix en cinc naturals corresponents als anys, dies, hores, minuts i segons, respectivament.
+
+Sortida
+
+Escriviu el nombre total de segons corresponents a l’entrada.
+
+Observació
+
+Podeu assumir que tots els anys tenen 365 dies.
+*/
+
 int main () {
     int y, d, h, m, s;
     cin >> y >> d >> h >> m >> s;
