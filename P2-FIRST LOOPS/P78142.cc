@@ -1,6 +1,18 @@
 #include <iostream>
 using namespace std;
 
+/*
+Feu un programa que llegeixi una seqüència de nombres i que n’escrigui la mitjana.
+
+Entrada
+
+L’entrada consisteix en una seqüència no buida de nombres reals estrictament positius.
+
+Sortida
+
+Cal escriure la mitjana dels nombres amb dues xifres decimals.
+*/
+
 int main () {
     cout.precision(2);
     cout.setf(ios::fixed);
