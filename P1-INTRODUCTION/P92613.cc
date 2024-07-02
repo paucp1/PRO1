@@ -1,6 +1,18 @@
 #include <iostream>
 using namespace std;
 
+/*
+Feu un programa que llegeixi un real x≥0 i que escrigui ⌊ x ⌋ (la part entera inferior de x), ⌈ x ⌉ (la part entera superior de x), i l’arrodoniment de x.
+
+Entrada
+
+L’entrada consisteix en un real x ≥ 0.
+
+Sortida
+
+Escriviu la part entera inferior de x, la part entera superior de x, i l’enter més proper a x (⌈ x ⌉ ‍en cas d’empat).
+*/
+
 int main () {
     double x;
     cin >> x;
