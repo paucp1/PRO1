@@ -1,6 +1,18 @@
 #include <iostream>
 using namespace std;
 
+/*
+Feu un programa que llegeixi un nombre i que escrigui la seva representació binària del revés.
+
+Entrada
+
+L’entrada consisteix en un natural.
+
+Sortida
+
+Escriviu, del revés, la representació binària del número, amb tants zeros a l’esquerra com calguin.
+*/
+
 int main () {
     int n;
     cin >> n;
