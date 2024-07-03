@@ -1,6 +1,18 @@
 #include <iostream>
 using namespace std;
 
+/*
+Donada una seqüència amb només ‘(’ i ‘)’, digueu si els parèntesis tanquen correctament.
+
+Entrada
+
+L’entrada consisteix en una seqüència de parèntesis.
+
+Sortida
+
+Escriviu “si” o “no”, depenent de si els parèntesis tanquen correctament o no.
+*/
+
 int main () {
    char n;
    int c = 0;
