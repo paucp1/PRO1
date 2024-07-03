@@ -1,2 +1,2 @@
 # PRO1
-Soluciones de los problemas del Jutge.org de PRO1 de la FIB.
+Solutions to FIB PRO1 Jutge.org problems.
